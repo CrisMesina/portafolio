@@ -1,0 +1,21 @@
+@import 'tailwindcss';
+
+
+@theme{
+    --color-theme-bg-nav: #D9D9D9;
+    --color-theme-bg-body: #1D1616;
+    --color-theme-hero-green: #3F7D58;
+
+
+
+    --font-theme-Lilita: "Lilita", sans-serif;
+    --font-Lilita--font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    --font-Lilita--font-variation-settings: "opsz" 32;
+}
+
+@font-face {
+    font-family: Lilita;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./assets/fonts/LilitaOne-Regular.woff2') format('woff2');
+}
