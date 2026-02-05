@@ -1,21 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 @import 'tailwindcss';
 
 
 @theme{
-    --color-theme-bg-nav: #D9D9D9;
-    --color-theme-bg-body: #1D1616;
-    --color-theme-hero-green: #3F7D58;
+    --color-theme-bg-body: #0a0a0a;
 
+    --font-Jersey: "Jersey 10", sans-serif;
+    --font-Indie: "Indie Flower", sans-serif;
 
+    --breakpoint-xs: 20rem;
 
-    --font-theme-Lilita: "Lilita", sans-serif;
-    --font-Lilita--font-feature-settings: "cv02", "cv03", "cv04", "cv11";
-    --font-Lilita--font-variation-settings: "opsz" 32;
-}
-
-@font-face {
-    font-family: Lilita;
-    font-style: normal;
-    font-weight: 400;
-    src: url('./assets/fonts/LilitaOne-Regular.woff2') format('woff2');
+       
 }
