@@ -49,11 +49,6 @@ export const proyectos = [
         url: "https://dulcesfran.cl"
     },
     {
-        label: "Mora Montajes",
-        img: "/img-Meta-MoraMontajes.png",
-        url: "https://moramontajes.cl"
-    },
-    {
         label: "Liceo Berta Zamorano Lizana",
         img: "/img-Meta.png",
         url: "https://www.liceobzl.cl"
